@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DJMistry02
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning DSA in python, WebDevelopment.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I'm Dhairya Mistry
+- 👀 I’m interested in Python, WebD, Javascsript.
+- 🌱 I’m currently learning DSA in Python & WebDevelopment.
+- 💞️ I’m looking to collaborate on WebD Projects and CP in Python.
+
 
 <!---
 DJMistry02/DJMistry02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
